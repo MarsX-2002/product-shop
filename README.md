@@ -2,6 +2,23 @@
 
 A full-stack e-commerce application built with React, TypeScript, and Express.js.
 
+## 📸 Screenshots
+
+### Application Architecture
+![Application Architecture](./screenshots/architecture.png)
+
+### Product List
+![Product List](./screenshots/product-list.png)
+
+### Add/Edit Product
+![Add Product](./screenshots/add-product.png)
+
+### Shopping Cart
+![Shopping Cart](./screenshots/shopping-cart.png)
+
+### Checkout Process
+![Checkout](./screenshots/checkout.png)
+
 ## Features
 
 - 🛍️ Product Management (CRUD operations)
